@@ -1,0 +1,24 @@
+{
+  "_说明": "知识库扫描配置，指定哪些 Obsidian vault 需要扫描来提取项目经历和技能。",
+  "obsidian_base": "E:\\obsidian\\rein",
+  "scan_vaults": [
+    "02-学习库",
+    "03-项目库",
+    "04-简历成长库"
+  ],
+  "exclude_patterns": [
+    "_总览.md",
+    "_log.md",
+    "_融合对比.md",
+    "简历素材库.md",
+    "素材库",
+    ".obsidian"
+  ],
+  "max_file_size_kb": 200,
+  "extract_fields": {
+    "project_name": ["project_name", "项目名称", "# "],
+    "tech_stack": ["技术栈", "tech_stack", "tags"],
+    "description": ["项目简介", "description"],
+    "achievements": ["项目产出", "成果", "简历可用描述", "亮点"]
+  }
+}
