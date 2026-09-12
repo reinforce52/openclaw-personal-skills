@@ -1,0 +1,15 @@
+# 个人敏感数据（公开仓库严禁提交）
+**/config/personal_info.json
+**/data/boss_cookies.json
+**/douyin-cookies.txt
+**/assets/avatar.*
+**/scan_result.json
+**/progress/
+**/logs/
+**/__pycache__/
+*.log
+*.pyc
+
+# 系统
+.DS_Store
+Thumbs.db
