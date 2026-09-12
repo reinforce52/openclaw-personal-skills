@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "registry": "https://clawhub.ai",
+  "slug": "chinese-llm-router",
+  "ownerHandle": "xdd-xund",
+  "installedAt": 1788444307799,
+  "artifact": {
+    "kind": "archive",
+    "sha256": "caaeaeb39cd748735c80a57e08fef5c2006f1d72e1a55ee631e96d643bed96d4",
+    "integrity": "sha256-yq6us5zXSHNcgKV+CP71wgBvHXLhpV7mMeltZDvtltQ="
+  },
+  "skillFile": {
+    "path": "SKILL.md",
+    "sha256": "5057c06353395f006ae354c7ef02ea5908b34d3e0f56a9c394037947e0e7f461"
+  },
+  "fileTreeSha256": "sha256:94a3a3a99d55a64b8baa5d045d27dbb078f6ba6c94b52206ec6cad2d9edec1c2",
+  "installedVersion": "1.0.0"
+}
