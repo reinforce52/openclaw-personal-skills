@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "registry": "https://clawhub.ai",
+  "slug": "token-economy",
+  "ownerHandle": "pfaria32",
+  "installedAt": 1788444325564,
+  "artifact": {
+    "kind": "archive",
+    "sha256": "3265dc42db6dea5967c656fbff998b1846197ccb356514743f4fa5539351218a",
+    "integrity": "sha256-MmXcQttt6llnxlb7/5mLGEYZfMs1ZRR0P0+lU5NRIYo="
+  },
+  "skillFile": {
+    "path": "SKILL.md",
+    "sha256": "693c2fac7a2a339fd3e620c6c78b9a1fb4c984cb47079746dac926215eddb535"
+  },
+  "fileTreeSha256": "sha256:5edeeefa091ef543367ba5c1f54ae57c01b48606c49a723b62def89fbb54f802",
+  "installedVersion": "1.0.3"
+}
